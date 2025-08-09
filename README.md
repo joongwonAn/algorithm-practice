@@ -1,3 +1,3 @@
 # algorithm-practice
 
-알고리즘 공부용
+알고리즘 공부 기록
