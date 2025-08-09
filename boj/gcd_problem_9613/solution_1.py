@@ -1,6 +1,5 @@
 import sys 
 from math import gcd
-from itertools import combinations
 
 input = sys.stdin.readline
 
